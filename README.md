@@ -4,6 +4,7 @@
 [![Code Climate](https://codeclimate.com/github/DarkaOnLine/L5-Swagger/badges/gpa.svg)](https://codeclimate.com/github/DarkaOnLine/L5-Swagger)
 [![StyleCI](https://styleci.io/repos/32315619/shield?style=flat&branch=master)](https://styleci.io/repos/32315619)
 [![GuitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor%20L5-Swagger&message=%E2%9D%A4&logo=GitHub)](https://github.com/sponsors/DarkaOnLine)
+[![Check Imports](https://github.com/DarkaOnLine/L5-Swagger/actions/workflows/check_imports.yml/badge.svg?branch=master)](https://github.com/DarkaOnLine/L5-Swagger/actions/workflows/check_imports.yml)
 
 L5 Swagger - OpenApi or Swagger Specification for your Laravel project made easy.
 ==========
